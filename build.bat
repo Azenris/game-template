@@ -13,7 +13,7 @@ SETLOCAL EnableDelayedExpansion
 
 SET debugMode=1
 SET platform=PLATFORM_WINDOWS
-SET name={{{EXECUTABLE_NAME}}}
+SET name=__GAME_TEMPLATE_NAME__
 SET buildDir=TEMP\
 SET objectDir=%buildDir%Objects\
 SET warnings=-WX -W4 -wd4100 -wd4201 -wd4324

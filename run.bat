@@ -2,5 +2,5 @@
 cls
 SET mypath=%~dp0
 pushd %mypath%\TEMP\
-{{{EXECUTABLE_NAME}}}.exe
+__GAME_TEMPLATE_NAME__.exe
 popd
