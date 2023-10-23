@@ -1,6 +1,7 @@
 
 // System Includes
 #include <stdio.h>
+#include <stdint.h>
 
 // Platform Specific Includes
 // ...
